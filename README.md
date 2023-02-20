@@ -6,8 +6,9 @@ This project uses Python libraries Beautiful Soup and Requests to scrape data on
 
 To run this project, you will need to have the following Python libraries installed:
 
-requests
-beautifulsoup4
-pandas
-numpy
-matplotlib
+- requests
+- beautifulsoup4
+- pandas
+- numpy
+- matplotlib
+- seaborn
